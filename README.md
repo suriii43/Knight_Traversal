@@ -26,5 +26,5 @@ This project implements an algorithm that solves the Knight's Tour problem and o
 
 <section>
 <h2>Output</h2>
-<img src="code_op.jpg">
+<img src="code_op.jpg" height="600px">
 </section>
