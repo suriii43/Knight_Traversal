@@ -21,7 +21,7 @@ This project implements an algorithm that solves the Knight's Tour problem and o
 
 <section>
 <h3>Knight Tour</h3>
-<img src="2022-11-11-tour.jpg" height="800px">
+<img src="2022-11-11-tour.jpg" height="600px">
 </section>
 
 <section>
